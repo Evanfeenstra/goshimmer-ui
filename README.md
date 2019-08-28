@@ -41,4 +41,4 @@ and run
 
 # for secure acess:
 
-**[goshimmer-ui](https://github.com/Evanfeenstra/goshimmer-webui)**
+**[goshimmer-webauth](https://github.com/Evanfeenstra/goshimmer-webauth)**
